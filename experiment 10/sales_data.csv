@@ -1,0 +1,14 @@
+Month,Category,Customer_Age,Sales
+Jan,Electronics,25,250.50
+Feb,Clothing,34,120.00
+Mar,Home,45,
+Apr,Electronics,22,300.00
+May,Clothing,28,150.75
+May,Clothing,28,150.75
+Jun,Home,50,400.00
+Jul,Electronics,30,
+Aug,Clothing,40,110.00
+Sep,Home,38,350.00
+Oct,Electronics,26,280.00
+Nov,Clothing,31,135.00
+Dec,Home,48,420.00
